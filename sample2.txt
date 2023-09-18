@@ -1,0 +1,11 @@
+--if you are going to work in already runing project
+-- they already created the code and stored in git
+-- we created one folder in our local machine (abc)
+-- he will do config setting with central repositry
+email 
+user name 
+$ git config --global user.name "rcmari
+$ git config --global user.email "youremail@yourdomain.com"
+---> git init 
+---> git clone https://github.com/rcmaris/devops_maris_day1.git
+
